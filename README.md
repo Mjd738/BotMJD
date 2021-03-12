@@ -1,2 +1,0 @@
-# BotMJD
-Bot Prib
